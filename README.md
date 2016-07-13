@@ -15,3 +15,5 @@ Step 2. Add the dependency
 dependencies {
 	        compile 'com.github.jacky-zf:PinyinAutoTips:-SNAPSHOT'
 	}
+
+[![](https://jitpack.io/v/jacky-zf/PinyinAutoTips.svg)](https://jitpack.io/#jacky-zf/PinyinAutoTips)
